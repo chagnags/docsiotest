@@ -1,0 +1,11 @@
+{
+  "label": "Guides",
+  "position": 3,
+  "customProps": {
+    "icon": "book-open"
+  },
+  "link": {
+    "type": "generated-index",
+    "description": "Step-by-step guides for common tasks and workflows."
+  }
+}

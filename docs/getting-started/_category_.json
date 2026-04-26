@@ -1,0 +1,11 @@
+{
+  "label": "Getting Started",
+  "position": 1,
+  "customProps": {
+    "icon": "rocket"
+  },
+  "link": {
+    "type": "generated-index",
+    "description": "Learn the basics of Docsio and get your first documentation site live in minutes."
+  }
+}

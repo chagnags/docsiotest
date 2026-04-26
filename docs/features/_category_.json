@@ -1,0 +1,11 @@
+{
+  "label": "Features",
+  "position": 2,
+  "customProps": {
+    "icon": "sparkle"
+  },
+  "link": {
+    "type": "generated-index",
+    "description": "Explore all Docsio features: AI generation, editing, preview, branding, publishing, and custom domains."
+  }
+}

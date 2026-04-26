@@ -1,0 +1,11 @@
+{
+  "label": "FAQ",
+  "position": 4,
+  "customProps": {
+    "icon": "question"
+  },
+  "link": {
+    "type": "generated-index",
+    "description": "Answers to common questions about Docsio."
+  }
+}
